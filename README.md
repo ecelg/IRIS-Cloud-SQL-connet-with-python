@@ -64,4 +64,18 @@ py -m pip install intersystems_irispython-3.2.0-py3-none-any.whl
 <br><br>
 ------------------------------------------------------------
 
-Open your Python IDE and you may start here  (I think.....)
+Open your Python IDE and you may start here  (I think.....)<br>
+I amd using Python3.9 today (21st June, 2022)<br>
+Because seems Python3.10 is not support by irisnative yesterday (20th June, 2022)<br>
+<br><br>
+
+Some Non related link (for my ref only)
+----------------------------------------------------------
+https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=AB_idesetup#AB_idesetup_python
+https://docs.intersystems.com/iris20221/csp/docbook/Doc.View.cls?KEY=PAGE_python_native
+https://docs.intersystems.com/components/csp/docbook/Python-Native/v1.0.0/index.html <--- this one is somehow....
+https://docs.intersystems.com/components/csp/docbook/DocBook.UI.Page.cls?KEY=ADRIVE <--- this one may not uptodate...
+https://intersystems-community.github.io/iris-driver-distribution/ <-- useful somehow
+https://community.intersystems.com/post/iris-native-api-python <-- inspiring, will go through soon
+https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks <-- very useful but I am toooooooo lazy to go through
+https://github.com/iijimam/selflearning-python-old/blob/master/src/python-pyODBC/HelloWorldPyODBC.py <-- simple but very helpful
