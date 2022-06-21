@@ -79,3 +79,4 @@ https://intersystems-community.github.io/iris-driver-distribution/ <-- useful so
 https://community.intersystems.com/post/iris-native-api-python <-- inspiring, will go through soon <br>
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks <-- very useful but I am toooooooo lazy to go through <br>
 https://github.com/iijimam/selflearning-python-old/blob/master/src/python-pyODBC/HelloWorldPyODBC.py <-- simple but very helpful <br>
+https://jp.community.intersystems.com/post/%E3%80%90%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE-intersystems-iris%E3%80%91%E3%82%BB%E3%83%AB%E3%83%95%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%93%E3%83%87%E3%82%AA%EF%BC%9A%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E7%B7%A8%EF%BC%9Apython-%E3%81%8B%E3%82%89-pyodbc-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6-iris-%E3%81%AB%E6%8E%A5%E7%B6%9A%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86 <br>
