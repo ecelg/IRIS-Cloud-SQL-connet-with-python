@@ -28,7 +28,7 @@ Go to Deployment > Overview > External Connections  to get the following infroma
 
 Step 4. <br>
 Go to Deployment > SQL Query Tools   to create a table  <br>
-    CREATE TABLE Patient (PatientID int, Name varchar(255), Insurance varchar(255), PrimaryPhysician varchar(255),CreditRating varchar(255),HomePhone varchar(255),HomeAdd_City varchar(255),HomeAdd_State varchar(255),HomeAdd_Zip varchar(255))
+    "CREATE TABLE Patient (PatientID int, Name varchar(255), Insurance varchar(255), PrimaryPhysician varchar(255),CreditRating varchar(255),HomePhone varchar(255),HomeAdd_City varchar(255),HomeAdd_State varchar(255),HomeAdd_Zip varchar(255))"
  <br> <br>
  the above table is created for the .csv upload in the next Step.  <br> <br>
 
@@ -37,7 +37,7 @@ Go to Deployment > Import Files  to upload the .csv file <br>
  <br> <br>
 Step 6. <br>
 Go to Deployment > SQL Query Tools   to check the upload <br>
-    select * from Patient <br>
+   " select * from Patient <br>"
  <br>
 ------------------------------------------------------------- 
 <br> <br>
