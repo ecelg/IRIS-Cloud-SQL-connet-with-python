@@ -42,7 +42,7 @@ Go to Deployment > Import Files  to upload the .csv file <br>
 Step 6. <br>
 Go to Deployment > SQL Query Tools   to check the upload <br>
 ```
-select * from Patient <br>
+select * from Patient
 ```
 <br><br>
 
