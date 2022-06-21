@@ -48,18 +48,20 @@ select * from Patient <br>
 
 Setup the 'pyodbc'
 ---------------------------------------------------------
-Step 1.
+Step 1. <br>
 Go to  https://intersystems-community.github.io/iris-driver-distribution/ <br>
 Click the "DB-API" to get the wheel file "intersystems_irispython-3.2.0-py3-none-any.whl"
 .. you may also click th "ODBC Win" to get the odbc driver for the PowerBI use.
+<br><br>
 
-Step 2.
+Step 2. <br>
 Open the cmd of you windows, go to the download directory of wheel file "intersystems_irispython-3.2.0-py3-none-any.whl"
-run the following command
+run the following command <br>
 ```
 py -m pip install pyodbc
 py -m pip install intersystems_irispython-3.2.0-py3-none-any.whl
 ```
+<br><br>
 ------------------------------------------------------------
 
 Open your Python IDE and you may start here  (I think.....)
