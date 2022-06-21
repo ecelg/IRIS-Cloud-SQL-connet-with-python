@@ -9,7 +9,7 @@ I started this simple project for fun ^^"
 ​
 Deploy a 'IRIS SQL DB Cloud'
 ---------------------------------------------------------
-​Step 1.
+​Step 1. <br>
 login to the InterSystems Cloud Service Portal
 https://portal.staging.isccloud.io/deployments
 
