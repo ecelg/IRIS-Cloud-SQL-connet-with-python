@@ -55,7 +55,7 @@ Click the "DB-API" to get the wheel file "intersystems_irispython-3.2.0-py3-none
 <br><br>
 
 Step 2. <br>
-Open the cmd of you windows, go to the download directory of wheel file "intersystems_irispython-3.2.0-py3-none-any.whl"
+Open the cmd of you windows, go to the download directory of wheel file "intersystems_irispython-3.2.0-py3-none-any.whl" <br>
 run the following command <br>
 ```
 py -m pip install pyodbc
